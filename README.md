@@ -28,7 +28,7 @@ local directory in <br/>
 `cargo-app/src/axios.js`
 
 ### Change local https
-`axios.defaults.baseURL = 'http://127.0.0.1:8002';`
+`for example : axios.defaults.baseURL = 'http://127.0.0.1:8002';`
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
